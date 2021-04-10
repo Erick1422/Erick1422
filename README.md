@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Erick1422
-- 👀 I’m interested in learn about Web development
+- 👀 I’m interested in learning about Web development
 - 🌱 I’m currently learning JavaSscript and NodeJs
 
 <!---
