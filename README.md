@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick1422&layout=compact/" width="207" height="auto"/> --->
 
 <h1 align="center">Hola 👋, me llamo Erick Buitrago</h1>
-<h3 align="center">Un apasionado Desarrollador Backend localizado en Colombia 🇨🇴</h3>
+<h3 align="center">Un apasionado Desarrollador Backend ubicado en Colombia 🇨🇴</h3>
 
 - 🔭 Estoy trabajando en **Plannerp**
 
