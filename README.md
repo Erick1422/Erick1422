@@ -6,11 +6,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick1422&layout=compact/" width="207" height="auto"/> --->
 
 <h1 align="center">Hola 👋, me llamo Erick Buitrago</h1>
-<h3 align="center">Un apasionado Desarrollador Backend ubicado en Colombia 🇨🇴</h3>
+<h3 align="center">Desarrollador Backend</h3>
 
-- 🔭 Estoy trabajando en **Plannerp**
+<!--- 🔭 Estoy trabajando en **Plannerp**-->
 
-- 🌱 Me encuentro aprendiendo **TypeScript, Angular, Nest.js y computación en la nube**
+- 🌱 Me encuentro aprendiendo **TypeScript, React.js, Nest.js y computación en la nube**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
